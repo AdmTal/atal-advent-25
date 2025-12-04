@@ -1,0 +1,7 @@
+I've endevoured to chase "mathy" solutions where I think they fit
+
+So I tried to do this without brute force.
+
+I failed.
+
+In the end, I had to build a brute force solution to test my mathy solution and get it working.
